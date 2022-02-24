@@ -9,7 +9,7 @@
         <module name="powersi" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel target="8">
+    <bytecodeTargetLevel target="1.8">
       <module name="powersi" target="8" />
     </bytecodeTargetLevel>
   </component>
