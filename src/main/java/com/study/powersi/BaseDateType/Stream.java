@@ -70,6 +70,7 @@ public class Stream {
             fileWriter.write("\nyhhh");
             fileWriter.close();
 
+
             //读取文件字节数
             input = new FileInputStream(file);
             byte[] bytes = new byte[(int) file.length()];
