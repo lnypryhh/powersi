@@ -20,5 +20,12 @@ public class Main {
         //two.expa();
         //查找重复元素
         two.findDupicateInArray();
+        //数组差集ArrayList
+        //objArray.removeAll(objArray2);
+        //数组交集ArrayList
+        //objArray.retainAll(objArray2);
+        //使用 contains () 方法来查找数组中的指定元素
+        //equals ()方法来判断数组是否相等
+        //union ()方法来计算两个数组的并集
     }
 }
