@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
-      <module name="powersi" target="8" />
+      <module name="powersi" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
